@@ -1,0 +1,27 @@
+{
+  // Force LaTeX Workshop to build this poster with latexmk + xelatex, which
+  // auto-runs biber for the biblatex bibliography. Without this, a single
+  // raw xelatex pass runs and the bibliography never gets generated.
+  "latex-workshop.latex.build.forceRecipeUsage": true,
+  "latex-workshop.latex.recipe.default": "first",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (xelatex + biber)",
+      "tools": ["latexmk (xelatex)"]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk (xelatex)",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-xelatex",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ]
+    }
+  ]
+}
