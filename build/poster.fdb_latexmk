@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber build/poster"] 1783979293.05241 "build/poster.bcf" "build/poster.bbl" "build/poster" 1784298494.62454 0
-  "build/poster.bcf" 1784298493.47141 108348 b812c39edfa818bf61a5e031181f0580 "xelatex"
+["biber build/poster"] 1783979293.05241 "build/poster.bcf" "build/poster.bbl" "build/poster" 1784313820.14824 0
+  "build/poster.bcf" 1784313819.06329 108348 b812c39edfa818bf61a5e031181f0580 "xelatex"
   "poster.bib" 1783975280.86663 2620 6b3ed3644a09e2b379026e6ca1160da5 ""
   (generated)
   "build/poster.bbl"
   "build/poster.blg"
   (rewritten before read)
-["xdvipdfmx"] 1784298493.6537 "build/poster.xdv" "build/poster.pdf" "build/poster" 1784298494.62664 0
-  "build/poster.xdv" 1784298493.47302 76500 e9a02be85a00a513e20bfc1d981574bd "xelatex"
+["xdvipdfmx"] 1784313819.1875 "build/poster.xdv" "build/poster.pdf" "build/poster" 1784313820.15031 0
+  "build/poster.xdv" 1784313819.06492 76620 b5d633dfb7ac4c4a39c079c86f7e92eb "xelatex"
   (generated)
   "build/poster.pdf"
   (rewritten before read)
-["xelatex"] 1784298491.38252 "poster.tex" "build/poster.xdv" "poster" 1784298494.62459 0
+["xelatex"] 1784313816.52819 "poster.tex" "build/poster.xdv" "poster" 1784313820.1483 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -248,18 +248,18 @@
   "RADiCALdiagram.jpg" 1783970568.89159 101913 505337053c442322587562948272fe5c ""
   "beamercolorthemegemini.sty" 1783646128 1469 45beaee0026e585a7853326a3e9dd070 ""
   "beamerthemegemini.sty" 1783711725.72774 6603 26e6b873d969d6baa71a05b58e1200bf ""
-  "build/poster.aux" 1784298493.46795 1588 ffb5dd86fd3c0a73363cf6e213ad977f "xelatex"
+  "build/poster.aux" 1784313819.05984 1588 ffb5dd86fd3c0a73363cf6e213ad977f "xelatex"
   "build/poster.bbl" 1783979295.24078 19663 fe0e8463be4d1d6096ffc8611f4c0acb "biber build/poster"
-  "build/poster.nav" 1784298493.47294 307 9e520c26371a1250ff9fc1fe87f9c655 "xelatex"
-  "build/poster.out" 1784298493.12776 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "build/poster.run.xml" 1784298493.47258 2350 0873a68897f98e6b088c4f9935d8c0df "xelatex"
+  "build/poster.nav" 1784313819.06487 307 9e520c26371a1250ff9fc1fe87f9c655 "xelatex"
+  "build/poster.out" 1784313818.69277 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "build/poster.run.xml" 1784313819.06457 2350 0873a68897f98e6b088c4f9935d8c0df "xelatex"
   "capillaries.jpeg" 1783969522.97066 158059 3c906072a8dc28312e54e1644e81e722 ""
   "experimentalsetup.JPG" 1783701277.9711 4869819 3281f6ae9823dacafd889445a1274ce2 ""
   "logos/CERN_logo_outline.jpg" 1783959987.97973 286509 e558a7b34b6d5d4901b4e6c58ebd642e ""
   "logos/CoeLogo.png" 1783734816 110815 24b31aa98bf0b758351ce266cfc0dfb6 ""
   "logos/Seal_of_the_Department_of_Energy.jpg" 1783960391.59065 1116444 1a68cd79b7cdecb3c6c7e42ccd8cd651 ""
   "logos/University-of-Iowa-Logo.png" 1783960426.98619 45584 7ab5cbd679a220a023c184fe11d41da2 ""
-  "poster.tex" 1784298488.06495 9356 a95066d32171c7f6f5e9c3b111573676 ""
+  "poster.tex" 1784313811.36859 9368 3594708bad9b76cdc175daa2aaad4312 ""
   (generated)
   "build/poster.aux"
   "build/poster.bcf"
