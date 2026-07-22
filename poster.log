@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.21)  22 JUL 2026 16:38
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.7.21)  22 JUL 2026 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1424,9 +1424,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `poster.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'poster.bbl' not found.
-
-No file poster.bbl.
+Package biblatex Info: ... file 'poster.bbl' found.
+ (./poster.bbl)
 Package biblatex Info: Reference section=0 on input line 77.
 Package biblatex Info: Reference segment=0 on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
@@ -1443,7 +1442,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 77.
-(./poster.nav)
+ (./poster.nav)
 File: logos/CoeLogo.png Graphic file (type bmp)
 <logos/CoeLogo.png>
 File: logos/University-of-Iowa-Logo.png Graphic file (type bmp)
@@ -1507,42 +1506,14 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 20.73778pt on input line 263.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 14.39845pt on input line 263.
-
-
-LaTeX Warning: Citation 'aleksa2019calorimeters' on page 1 undefined on input line 263.
-
-
-LaTeX Warning: Citation 'aleksa2019calorimeters' on page 1 undefined on input line 263.
-
 File: RADiCALdiagram.jpg Graphic file (type bmp)
 <RADiCALdiagram.jpg>
-
-LaTeX Warning: Citation 'wetzel2023beamtest' on page 1 undefined on input line 263.
-
-
-LaTeX Warning: Citation 'wetzel2023beamtest' on page 1 undefined on input line 263.
-
 File: capillaries.jpeg Graphic file (type bmp)
 <capillaries.jpeg>
-
-LaTeX Warning: Citation 'wetzel2023beamtest' on page 1 undefined on input line 263.
-
-
-LaTeX Warning: Citation 'wetzel2023beamtest' on page 1 undefined on input line 263.
-
-
-LaTeX Warning: Citation 'wetzel2023beamtest' on page 1 undefined on input line 263.
-
 File: experimentalsetup.JPG Graphic file (type bmp)
 <experimentalsetup.JPG>
 File: simulationimage.png Graphic file (type bmp)
 <simulationimage.png>
-
-LaTeX Warning: Citation 'perezlara2024radical' undefined on input line 263.
-
-
-LaTeX Warning: Empty bibliography on input line 263.
-
 
 Overfull \vbox (22.07799pt too high) detected at line 263
  []
@@ -1572,28 +1543,19 @@ File: logos/Seal_of_the_Department_of_Energy.jpg Graphic file (type bmp)
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                poster
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'poster.run.xml'.
 \openout1 = `poster.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40566 strings out of 469038
- 831340 string characters out of 5443581
- 1842195 words of memory out of 5000000
- 68875 multiletter control sequences out of 15000+600000
- 641866 words of font info for 140 fonts, out of 8000000 for 9000
+ 40648 strings out of 469038
+ 833990 string characters out of 5443581
+ 1852323 words of memory out of 5000000
+ 68953 multiletter control sequences out of 15000+600000
+ 641874 words of font info for 141 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 101i,22n,131p,1018b,2473s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,22n,131p,1018b,6141s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on poster.pdf (1 page).
