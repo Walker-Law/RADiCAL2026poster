@@ -13,7 +13,7 @@
   "latex-workshop.latex.tools": [
     {
       "name": "latexmk (xelatex)",
-      "command": "latexmk",
+      "command": "/home/walker/.local/texlive/2026/bin/x86_64-linux/latexmk",
       "args": [
         "-synctex=1",
         "-interaction=nonstopmode",
@@ -21,7 +21,10 @@
         "-xelatex",
         "-outdir=%OUTDIR%",
         "%DOC%"
-      ]
+      ],
+      "env": {
+        "PATH": "/home/walker/.local/texlive/2026/bin/x86_64-linux:/usr/local/bin:/usr/bin:/bin"
+      }
     }
   ]
 }

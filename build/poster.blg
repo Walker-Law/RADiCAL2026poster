@@ -1,15 +1,15 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'build/poster.blg'
-[103] biber-darwin:342> INFO - === Mon Jul 13, 2026, 16:48:15
-[114] Biber.pm:421> INFO - Reading 'build/poster.bcf'
-[155] Biber.pm:1002> INFO - Found 3 citekeys in bib section 0
-[164] Biber.pm:4487> INFO - Processing section 0
-[169] Biber.pm:4678> INFO - Looking for bibtex file 'poster.bib' for section 0
-[171] bibtex.pm:1713> INFO - LaTeX decoding ...
-[173] bibtex.pm:1519> INFO - Found BibTeX data source 'poster.bib'
-[254] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[254] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[254] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
-[255] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[262] bbl.pm:676> INFO - Writing 'build/poster.bbl' with encoding 'UTF-8'
-[266] bbl.pm:779> INFO - Output to build/poster.bbl
+[52] biber:342> INFO - === Wed Jul 22, 2026, 09:18:40
+[65] Biber.pm:421> INFO - Reading 'build/poster.bcf'
+[120] Biber.pm:1002> INFO - Found 3 citekeys in bib section 0
+[132] Biber.pm:4487> INFO - Processing section 0
+[142] Biber.pm:4678> INFO - Looking for bibtex file 'poster.bib' for section 0
+[143] bibtex.pm:1713> INFO - LaTeX decoding ...
+[146] bibtex.pm:1519> INFO - Found BibTeX data source 'poster.bib'
+[272] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[272] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[272] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[272] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[281] bbl.pm:676> INFO - Writing 'build/poster.bbl' with encoding 'UTF-8'
+[287] bbl.pm:779> INFO - Output to build/poster.bbl
